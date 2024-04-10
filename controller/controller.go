@@ -1,5 +1,7 @@
 package controller
+
 import "fmt"
-func UserController (){
-  fmt.Println("hello")
+
+func UserController() {
+	fmt.Println("hello")
 }
